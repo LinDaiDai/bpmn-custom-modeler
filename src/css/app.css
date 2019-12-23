@@ -1,0 +1,102 @@
+.custom-bpmn .djs-connection .djs-visual {
+    stroke-width: 1px!important;
+    stroke: #1296db!important;
+}
+
+.icon-custom {
+    border-radius: 50%;
+    background-size: 65%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.icon-custom-task {
+    background-image: url('https://hexo-blog-1256114407.cos.ap-shenzhen-fsi.myqcloud.com/rules.png');
+}
+
+.icon-custom-businessRule {
+    background-image: url('https://hexo-blog-1256114407.cos.ap-shenzhen-fsi.myqcloud.com/variable.png');
+}
+
+.icon-custom-exclusive-gateway {
+    background-image: url('https://hexo-blog-1256114407.cos.ap-shenzhen-fsi.myqcloud.com/decision.png');
+}
+
+.icon-custom-data {
+    background-image: url('https://hexo-blog-1256114407.cos.ap-shenzhen-fsi.myqcloud.com/score.png');
+}
+
+.icon-custom-start {
+    background-image: url('https://hexo-blog-1256114407.cos.ap-shenzhen-fsi.myqcloud.com/start.png');
+}
+
+.icon-custom-end {
+    background-image: url('https://hexo-blog-1256114407.cos.ap-shenzhen-fsi.myqcloud.com/end.png');
+}
+
+.icon-custom-flow {
+    background-image: url('https://hexo-blog-1256114407.cos.ap-shenzhen-fsi.myqcloud.com/flow.png');
+}
+
+.icon-custom-edit {
+    background-image: url('https://hexo-blog-1256114407.cos.ap-shenzhen-fsi.myqcloud.com/edit.png');
+}
+
+.icon-custom-delete {
+    background-image: url('https://hexo-blog-1256114407.cos.ap-shenzhen-fsi.myqcloud.com/delete.png');
+}
+
+.djs-context-pad .icon-custom-task.entry:hover {
+    background: url('https://hexo-blog-1256114407.cos.ap-shenzhen-fsi.myqcloud.com/rules.png') center no-repeat!important;
+    background-size: cover!important;
+}
+
+.djs-context-pad .icon-custom-businessRule.entry:hover {
+    background: url('https://hexo-blog-1256114407.cos.ap-shenzhen-fsi.myqcloud.com/variable.png') center no-repeat!important;
+    background-size: cover!important;
+}
+
+.djs-context-pad .icon-custom-exclusive-gateway.entry:hover {
+    background: url('https://hexo-blog-1256114407.cos.ap-shenzhen-fsi.myqcloud.com/decision.png') center no-repeat!important;
+    background-size: cover!important;
+}
+
+.djs-context-pad .icon-custom-data.entry:hover {
+    background: url('https://hexo-blog-1256114407.cos.ap-shenzhen-fsi.myqcloud.com/score.png') center no-repeat!important;
+    background-size: cover!important;
+}
+
+.djs-context-pad .icon-custom-start.entry:hover {
+    background: url('https://hexo-blog-1256114407.cos.ap-shenzhen-fsi.myqcloud.com/start.png') center no-repeat!important;
+    background-size: cover!important;
+}
+
+.djs-context-pad .icon-custom-end.entry:hover {
+    background: url('https://hexo-blog-1256114407.cos.ap-shenzhen-fsi.myqcloud.com/end.png') center no-repeat!important;
+    background-size: cover!important;
+}
+
+.djs-context-pad .icon-custom-flow.entry:hover {
+    background: url('https://hexo-blog-1256114407.cos.ap-shenzhen-fsi.myqcloud.com/flow.png') center no-repeat!important;
+    background-size: cover!important;
+}
+
+.djs-context-pad .icon-custom-edit.entry:hover {
+    background: url('https://hexo-blog-1256114407.cos.ap-shenzhen-fsi.myqcloud.com/edit.png') center no-repeat!important;
+    background-size: cover!important;
+}
+
+.djs-context-pad .icon-custom-delete.entry:hover {
+    background: url('https://hexo-blog-1256114407.cos.ap-shenzhen-fsi.myqcloud.com/delete.png') center no-repeat!important;
+    background-size: cover!important;
+}
+
+.djs-context-pad .entry:hover {
+    border: 1px solid #1890ff;
+}
+
+.djs-context-pad .entry {
+    background-size: 94%;
+    transition: all 0.3s;
+    box-sizing: border-box;
+}
