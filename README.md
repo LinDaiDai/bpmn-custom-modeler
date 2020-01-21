@@ -1,10 +1,12 @@
-# bpmn-vue-basic
+# bpmn-custom-modeler
 
 ## 项目描述
 
-此项目为[《全网最详bpmn.js教材-自定义palette篇》](https://juejin.im/post/5df197c4f265da33bd4976af)中的教材案例.
+此项目为[《封装组件篇》](https://github.com/LinDaiDai/bpmn-chinese-document/tree/master/LinDaiDai/全网最详bpmn.js教材-封装组件篇.md)中的教材案例.
 
-项目截图:
+
+
+## 项目截图:
 
 <img src="./public/image/screenshot.png" alt="img1" style="zoom:50%;" />
 
@@ -15,7 +17,7 @@
 将项目克隆至本地:
 
 ```
-git clone git@github.com:LinDaiDai/bpmn-vue-custom.git
+git clone git@github.com:LinDaiDai/bpmn-custom-modeler.git
 ```
 
 安装依赖:
